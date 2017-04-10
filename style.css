@@ -1,3 +1,20 @@
-h1 {
+.li {
     background-color: blue;
+}
+
+.D1{
+   color: red;
+}
+.D2 {
+    color: orange;
+}
+.D3 {
+    color: green;
+}
+.D4 {
+    color: darkblue;
+}
+
+p {
+    border: 1px solid darkblue;
 }
